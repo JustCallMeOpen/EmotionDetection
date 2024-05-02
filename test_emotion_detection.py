@@ -1,4 +1,4 @@
-import unittest
+import unittest, requests
 from EmotionDetection import emotion_detector
 
 class TestEmotionDetector(unittest.TestCase):
